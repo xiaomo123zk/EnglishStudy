@@ -1,0 +1,13 @@
+
+pharma-ceutical
+pharma-ceutical： medicine preduct、sell
+
+dose: the amount of a medicine or drug that you shoule take
+
+antidote: a substance that controls or stops the effects of a poison or of other drugs
+
+prescription: an official paper from a doctor that lists the try of medicine you should take
+
+side effect
+
+over-the-counter: describes medicine that you can buy without a prescription from a doctor.
